@@ -1,0 +1,26 @@
+---
+title: "R Notebook"
+output:
+  word_document: default
+  html_notebook: default
+  pdf_document: default
+---
+
+```{r}
+source(here('R', 'librerie.R'))
+
+hist (rnorm(1000,10,2))
+```
+# CAPITOLO
+
+uso di github con R
+
+
+
+## Paragrafo
+
+ciao
+mi chiamo letizia 
+
+### Subparagrafo
+#### Subsubparagrafo
